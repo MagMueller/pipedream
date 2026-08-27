@@ -1,0 +1,30 @@
+components/browser_use/actions/get-run/get-run.mjs
+  s_86d24eaeebcb12::t_775e230e07e498 7
+components/browser_use/actions/cancel-run/cancel-run.mjs
+  s_86d24eaeebcb12::t_775e230e07e498 7
+components/browser_use/package.json
+  s_86d24eaeebcb12::t_775e230e07e498 3
+components/browser_use/actions/create-run/create-run.mjs
+  s_86d24eaeebcb12::t_775e230e07e498 10,28,32-35,60
+  s_86d24eaeebcb12::t_d4cefacb743825 46
+components/browser_use/actions/list-runs/list-runs.mjs
+  s_86d24eaeebcb12::t_775e230e07e498 8,30,34-37
+components/browser_use/browser_use.app.mjs
+  s_86d24eaeebcb12::t_775e230e07e498 41,66-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "40d39b0bd12e8cd5f94cd878278facbfc4b31437",
+  "prompts": {},
+  "sessions": {
+    "s_86d24eaeebcb12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a005bc-1d17-73c3-b1f5-38259988bc61",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "MagMueller <mamagnus00@gmail.com>"
+    }
+  }
+}
